@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #eee;
+}
+
+#container {
+	background-color: #fff;
+	padding: 15px;
+	margin: 15px;
+	max-width: 600px;
+}
